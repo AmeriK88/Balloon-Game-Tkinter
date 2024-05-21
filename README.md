@@ -29,3 +29,7 @@ Este juego fue desarrollado como un proyecto de aprendizaje para practicar el us
 
 ## Créditos
 Desarrollado por [José Félix Gordo]
+
+## Imágenes
+![Captura de pantalla 2024-05-21 074548](https://github.com/AmeriK88/Balloon-Game-Tkinter/assets/165429251/9493318a-6268-49bc-8f22-b869b67262c1)
+![Captura de pantalla 2024-05-21 074536](https://github.com/AmeriK88/Balloon-Game-Tkinter/assets/165429251/a79a2864-2dd8-4296-bcb2-1d37ddbd0d1d)
