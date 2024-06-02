@@ -22,7 +22,7 @@ class BalloonGame:
         self.balloons = []  # Lista para almacenar los globos en juego
         self.projectile = None  # Referencia al proyectil en el lienzo
         self.projectile_velocity = [0, 0]  # Velocidad inicial del proyectil
-        self.score = 0  # Puntaje del jugador
+        self.score = 0  # Puntuación del jugador
         self.game_over = False  # Bandera para indicar si el juego ha terminado
         self.level = 1  # Nivel actual del juego
         self.balloon_speed = BALLOON_SPEED  # Velocidad inicial de los globos
